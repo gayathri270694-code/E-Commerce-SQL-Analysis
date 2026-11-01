@@ -77,7 +77,7 @@ The project uses four relational tables:
 ### Inventory Analysis
 
 - Identified products appearing in the highest number of distinct orders to assess demand patterns.
-- - Identified products purchased by fewer than 40% of the customer base.
+- Identified products purchased by fewer than 40% of the customer base.
 - Identified peak sales periods for inventory planning.
 
 ## 7. Key Business Findings
