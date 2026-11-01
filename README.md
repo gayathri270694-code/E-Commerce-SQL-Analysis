@@ -52,7 +52,6 @@ The project uses four relational tables:
 - COUNT(DISTINCT)
 - Date Functions and DATE_FORMAT
 - Window Functions: LAG()
-- Common Table Expressions (CTEs)
 - Percentage Change Calculations
 
 ## 6. Analysis Performed
@@ -77,7 +76,7 @@ The project uses four relational tables:
 
 ### Inventory Analysis
 
-- Identified products with the highest sales frequency.
+- Identified products appearing in the highest number of distinct orders to assess demand patterns.customer
 - Examined underperforming products.
 - Identified peak sales periods for inventory planning.
 
