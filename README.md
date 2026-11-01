@@ -92,11 +92,11 @@ The project uses four relational tables:
 
 ## 8. Project Files
 
-- `Ecommerce_SQL_Case_Study1.sql` – SQL coding solutions and business interpretation questions.
-- `customers.csv` – Customer dataset.
-- `products.csv` – Product dataset.
-- `orders.csv` – Orders dataset.
-- `orderdetails.csv` – Order details dataset.
+- [Ecommerce_SQL_Case_Study1.sql](./Ecommerce_SQL_Case_Study1.sql)` – SQL coding solutions and business interpretation questions.
+- [customers.csv](./customers.csv) – Customer dataset.
+- [products.csv](./products.csv) – Product dataset.
+- [orders.csv](./orders.csv)` – Orders dataset.
+- [orderdetails.csv](./orderdetails.csv) – Order details dataset.
 
 ## 9. Learning Outcomes
 
